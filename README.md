@@ -26,25 +26,25 @@ Results:
 The results for the six machine learning models including their respective balanced accuracy, precision, and recall scores are as follows:
 
 Naive Random Oversampling
-Pic 1
+
 
 Balanced Accuracy: 0.6612700484668286
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .66/.67
 SMOTE Oversampling
-Pic 2
+
 
 Balanced Accuracy: 0.6303296388959394
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .62/.64
 Undersampling
-Pic 3
+
 
 Balanced Accuracy: 0.6303296388959394
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .63/.40
 Combination Under-Over Sampling
-Pic 4
+
 
 Balanced Accuracy: 0.5173713090878325
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
@@ -56,7 +56,7 @@ Balanced Accuracy: 0.7877672625306695
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .67/.91
 Easy Ensemble AdaBoost Classifier
-Pic 6
+
 
 Balanced Accuracy: 0.925427358175101
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
